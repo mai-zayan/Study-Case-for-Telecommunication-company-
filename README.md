@@ -14,9 +14,8 @@ The project consists of three interactive dashboards:
 ## 🗂️ Files Included
 - **Case Study - Databel.pbix** → Main Power BI project file  
 - **Screenshots**
-  - `Screenshot 2025-10-20 014203.jpg` 
-  - `Screenshot 2025-10-20 014243.jpg` → Databel Age Groups Dashboard  
-  - `Screenshot 2025-10-20 014328.jpg` → Databel Insights Dashboard  
+  - Screenshot 2025-10-20 014203.jpg 
+
 
 ---
 
